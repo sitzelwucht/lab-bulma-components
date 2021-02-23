@@ -14,9 +14,7 @@ function CoolButton(props) {
 
     return (
         <React.Fragment>
-        <div className="buttons">
             <button className={getClass()}>{props.title}</button>
-        </div>
         </React.Fragment>
     )
 }

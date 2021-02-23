@@ -1,0 +1,12 @@
+.form-container {
+    margin: auto;
+    width: 750px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container button {
+    width:100px;
+    margin: 2em;
+    align-self: center;
+}
